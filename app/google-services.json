@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382010614564",
+    "firebase_url": "https://klien-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "klien-app",
+    "storage_bucket": "klien-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382010614564:android:00d78f337ec70ba82349b1",
+        "android_client_info": {
+          "package_name": "com.example.klienapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382010614564-5niocq6pn3hrmk1jfqer3ubngq5p6lgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMHsweH07Qc9WIN2cJb1mX0Gvmmyoly48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382010614564-5niocq6pn3hrmk1jfqer3ubngq5p6lgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
